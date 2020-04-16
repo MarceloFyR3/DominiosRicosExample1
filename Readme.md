@@ -8,5 +8,5 @@ Utilizando padões S.O.L.I.D e Clean Code
  * CQRS(Hadles e Quaries)
  
  ## Fonte de conhecimento
-  *Balta.io
-  *FyR3 Desenvolvimento
+  * *Balta.io
+  * *FyR3 Desenvolvimento
